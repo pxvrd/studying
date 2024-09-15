@@ -1,3 +1,3 @@
-[***МОЙ ОПЫТ***](myexperience)
+[***МОЙ ОПЫТ***](myexperience.md)
 
-[***МОИ ЦЕЛИ***](mygoals)
+[***МОИ ЦЕЛИ***](mygoals.md)
